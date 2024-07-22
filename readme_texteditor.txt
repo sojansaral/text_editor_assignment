@@ -1,0 +1,1 @@
+This application is the implementation of text editor with font family, font weight and italic selector. The main aim is to develop the front end side of the application by using HTML,CSS and ReactJs. 
